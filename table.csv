@@ -1,26 +1,182 @@
-0,da,'Danish',Danish
-1,de,'German',German
-3,dz,'Dzongkha',Dzongkha
-4,ee,'Ewe',Ewe
-5,el,'Greek',Greek
-6,en,'English',English
-7,eo,'Esperanto',Esperanto
-8,es,'Spanish',Spanish
-9,et,'Estonian',Estonian
-10,eu,'Basque',Basque
-11,ae,'Avestan',Avestan
-12,af,'Afrikaans',Afrikaans
-13,aa,'Afar',Afar
-14,ab,'Abkhaz',Abkhazian
-15,am,'Amharic',Amharic
-16,an,'Aragonese',Aragonese
-17,ak,'Akan',Akan
-18,av,'Avaric',Avaric
-19,ar,'Arabic',Arabic
-20,as,'Assamese',Assamese
-21,ay,'Aymara',Aymara
-22,az,'Azeri',Azerbaijani
-23,fa,'Persian (Farsi)',Persian
-180,fil,'Filipino',Filipino
-181,zh-TW,'Chinese (Traditional)',Chinese
-182,zh-CN,'Chinese (Simplified)',Chinese
+0,da,Danish,Danish
+1,de,German,German
+2,dv,Divehi AND  Dhivehi AND  Maldivian,Divehi
+3,dz,Dzongkha,Dzongkha
+4,ee,Ewe,Ewe
+5,el,Greek,Greek
+6,en,English,English
+7,eo,Esperanto,Esperanto
+8,es,Spanish,Spanish
+9,et,Estonian,Estonian
+10,eu,Basque,Basque
+11,ae,Avestan,Avestan
+12,af,Afrikaans,Afrikaans
+13,aa,Afar,Afar
+14,ab,Abkhaz,Abkhazian
+15,am,Amharic,Amharic
+16,an,Aragonese,Aragonese
+17,ak,Akan,Akan
+18,av,Avaric,Avaric
+19,ar,Arabic,Arabic
+20,as,Assamese,Assamese
+21,ay,Aymara,Aymara
+22,az,Azeri,Azerbaijani
+23,fa,Persian (Farsi),Persian
+24,ff,Fula AND  Fulah AND  Pulaar AND  Pular,Fulah
+25,fj,Fijian,Fijian
+26,fi,Finnish,Finnish
+27,fo,Faroese,Faroese
+28,fr,French,French
+29,fy,Western Frisian,Western Frisian
+30,ga,Irish,Irish
+31,gd,Scottish Gaelic AND  Gaelic,Scottish Gaelic
+32,gn,Guaraní,Guarani
+33,gl,Galician,Galician
+34,gu,Gujarati,Gujarati
+35,li,Limburgish AND  Limburgan AND  Limburger,Limburgish
+36,lo,Lao,Lao
+37,ln,Lingala,Lingala
+38,la,Latin,Latin
+39,lb,Luxembourgish AND  Letzeburgesch,Luxembourgish
+40,lg,Ganda,Ganda
+41,lu,Luba-Katanga,Luba-Katanga
+42,lt,Lithuanian,Lithuanian
+43,lv,Latvian,Latvian
+44,mh,Marshallese,Marshallese
+45,mi,Māori,Maori
+46,mk,Macedonian,Macedonian
+47,ml,Malayalam,Malayalam
+48,mn,Mongolian,Mongolian
+49,mg,Malagasy,Malagasy
+50,my,Burmese,Burmese
+51,mr,Marathi (Marāṭhī),Marathi
+52,ms,Malay,Malay
+53,mt,Maltese,Maltese
+54,bg,Bulgarian,Bulgarian
+55,be,Belarusian,Belarusian
+56,ba,Bashkir,Bashkir
+57,bo,Tibetan Standard AND  Tibetan AND  Central,Tibetan
+58,bn,Bengali,Bengali
+59,bm,Bambara,Bambara
+60,bi,Bislama,Bislama
+62,bs,Bosnian,Bosnian
+63,br,Breton,Breton
+64,ce,Chechen,Chechen
+65,ca,Catalan,Catalan
+66,co,Corsican,Corsican
+67,ch,Chamorro,Chamorro
+68,cv,Chuvash,Chuvash
+69,cu,Old Church Slavonic AND  Church Slavonic AND  Old Bulgarian,Church Slavic
+70,cr,Cree,Cree
+71,cs,Czech,Czech
+72,cy,Welsh,Welsh
+73,ho,Hiri Motu,Hiri Motu
+74,hi,Hindi,Hindi
+75,he,Hebrew (modern),Hebrew
+76,ha,Hausa,Hausa
+77,hy,Armenian,Armenian
+78,hz,Herero,Herero
+79,hu,Hungarian,Hungarian
+80,ht,Haitian AND  Haitian Creole,Haitian
+81,hr,Croatian,Croatian
+82,io,Ido,Ido
+83,ii,Nuosu,Sichuan Yi
+84,ik,Inupiaq,Inupiaq
+85,id,Indonesian,Indonesian
+86,ie,Interlingue,Interlingue
+87,ig,Igbo,Igbo
+88,ia,Interlingua,Interlingua
+89,it,Italian,Italian
+90,iu,Inuktitut,Inuktitut
+91,is,Icelandic,Icelandic
+92,nl,Dutch,Dutch
+93,nb,Norwegian,Norwegian Bokmål
+94,na,Nauru,Nauru
+95,ng,Ndonga,Ndonga
+96,ne,Nepali,Nepali
+97,nd,Northern Ndebele,North Ndebele
+98,ny,Chichewa AND  Chewa AND  Nyanja,Nyanja
+99,nr,Southern Ndebele,South Ndebele
+100,nv,Navajo AND  Navaho,Navajo
+101,oj,Ojibwe AND  Ojibwa,Ojibwa
+102,om,Oromo,Oromo
+103,oc,Occitan,Occitan
+104,or,Oriya,Oriya
+105,os,Ossetian AND  Ossetic,Ossetic
+106,ts,Tsonga,Tsonga
+107,tr,Turkish,Turkish
+108,tt,Tatar,Tatar
+109,tw,Twi,Akan
+110,ty,Tahitian,Tahitian
+111,ta,Tamil,Tamil
+112,te,Telugu,Telugu
+113,tg,Tajik,Tajik
+114,ti,Tigrinya,Tigrinya
+115,th,Thai,Thai
+116,tk,Turkmen,Turkmen
+117,tl,Tagalog,Filipino
+118,to,Tonga (Tonga Islands),Tongan
+119,tn,Tswana,Tswana
+120,ur,Urdu,Urdu
+121,uz,Uzbek,Uzbek
+122,ug,Uyghur AND  Uighur,Uyghur
+123,uk,Ukrainian,Ukrainian
+124,ja,Japanese,Japanese
+125,jv,Javanese,Javanese
+126,kn,Kannada,Kannada
+127,ko,Korean,Korean
+128,kl,Kalaallisut AND  Greenlandic,Kalaallisut
+129,km,Khmer,Khmer
+130,kj,Kwanyama AND  Kuanyama,Kuanyama
+131,kk,Kazakh,Kazakh
+132,ki,Kikuyu AND  Gikuyu,Kikuyu
+133,kg,Kongo,Kongo
+134,ka,Georgian,Georgian
+135,ky,Kyrgyz,Kyrgyz
+136,kv,Komi,Komi
+137,kw,Cornish,Cornish
+138,ku,Kurdish,Kurdish
+139,kr,Kanuri,Kanuri
+140,ks,Kashmiri,Kashmiri
+141,pt,Portuguese,Portuguese
+142,ps,Pashto AND  Pushto,Pashto
+143,pa,Panjabi AND  Punjabi,Punjabi
+144,pl,Polish,Polish
+145,pi,Pāli,Pali
+146,qu,Quechua,Quechua
+147,ve,Venda,Venda
+148,vi,Vietnamese,Vietnamese
+149,vo,Volapük,Volapük
+150,wa,Walloon,Walloon
+151,wo,Wolof,Wolof
+152,rw,Kinyarwanda,Kinyarwanda
+153,ru,Russian,Russian
+154,ro,Romanian,Romanian
+155,rn,Kirundi,Rundi
+156,rm,Romansh,Romansh
+157,sv,Swedish,Swedish
+158,sw,Swahili,Swahili
+159,st,Southern Sotho,Southern Sotho
+160,su,Sundanese,Sundanese
+161,sr,Serbian,Serbian
+162,ss,Swati,Swati
+163,sq,Albanian,Albanian
+164,sg,Sango,Sango
+165,sd,Sindhi,Sindhi
+166,se,Northern Sami,Northern Sami
+167,sc,Sardinian,Sardinian
+168,sa,Sanskrit (Saṁskṛta),Sanskrit
+169,sn,Shona,Shona
+170,so,Somali,Somali
+171,sl,Slovenian,Slovenian
+172,sm,Samoan,Samoan
+173,sk,Slovak,Slovak
+174,si,Sinhala AND  Sinhalese,Sinhala
+175,xh,Xhosa,Xhosa
+176,yo,Yoruba,Yoruba
+177,yi,Yiddish,Yiddish
+178,zu,Zulu,Zulu
+179,za,Zhuang AND  Chuang,Zhuang
+180,fil,Filipino,Filipino
+181,zh-TW,Chinese (Traditional),Chinese
+182,zh-CN,Chinese (Simplified),Chinese
