@@ -1,90 +1,90 @@
 tmsId,TmsText,TmsCode,ParseTag,ourTag,OUrName
-90,Welsh,cy,cy,cy,Welsh
-30,Hebrew,he,he,he,Hebrew
-41,Slovenian,sl,sl,sl,Slovenian
-63,Spanish (Latin America),es-mx,es-MX,es-MX,Spanish (Mexican)
-49,Kazakh,kk,kk,kk,Kazakh
-53,Mongol,mn,mn,mn,Mongolian
-61,Bosnian,bs,bs,bs,Bosnian
-77,Tamil,ta,ta,ta,Tamil
-15,Azerbaijani,az,az,az,Azerbaijani
-33,Belarusian,be,be,be,Belarusian
-36,Armenian,hy,hy,hy,Armenian
-84,Cambodian,km,km,km,Khmer
+17,Lithuanian,lt,lt,lt,Lithuanian
+31,Arabic,ar,ar,ar,Arabic
+48,Georgian,ka,ka,ka,Georgian
+75,Sinhalese,si,si,si,Sinhala
+78,Tagalog,tl,fil,fil,Filipino
 87,Burmese,my,my,my,Burmese
-6,Chinese (Simplified),zh,zh,,
-26,Ukrainian,uk,uk,uk,Ukrainian
-58,Malay,ms-my,ms-MY,ms-MY,Malay ()
-42,Danish,da,da,da,Danish
-45,Norwegian,no,no,no,Norwegian Bokmål
-67,French - Canada,fr-ca,fr-CA,fr-CA,French (Canadian)
-7,Japanese,ja,ja,ja,Japanese
-32,Greek,el,el,el,Greek
-35,Catalan,ca,ca,ca,Catalan
-18,Latvian,lv,lv,lv,Latvian
-74,Nepali,ne,ne,ne,Nepali
-43,Korean,ko,ko,ko,Korean
-71,Bengali,bn,bn,bn,Bengali
-80,Medieval Japanese,ja-md,ja-MD,,
-14,Italian,it,it,it,Italian
-23,Romanian,ro,ro,ro,Romanian
-39,Kyrgyz,ky,ky,ky,Kyrgyz
-66,English - Australia,en-au,en-AU,en-AU,English (Australian)
 94,Punjabi,pa,pa,pa,Punjabi
-3,German,de,de,de,German
-50,Thai,th,th,th,Thai
-60,Irish,en-ie,en-IE,en-IE,English ()
-91,Haitian Creole,ht,ht,ht,Haitian
-5,Polish,pl,pl,pl,Polish
+22,Dutch,nl,nl,nl,Dutch
+53,Mongol,mn,mn,mn,Mongolian
+56,Indonesian,id,id,id,Indonesian
+63,Spanish (Latin America),es-mx,es-MX,es-MX,Spanish (Mexican)
+12,Bulgarian,bg,bg,bg,Bulgarian
+36,Armenian,hy,hy,hy,Armenian
+59,Albanian,sq,sq,sq,Albanian
 82,Norwegian (Nynorsk),nn,nn,nn,Norwegian Nynorsk
 85,Khmer,km,km,km,Khmer
-56,Indonesian,id,id,id,Indonesian
-75,Sinhalese,si,si,si,Sinhala
-4,French,fr,fr,fr,French
-11,Serbian,sr,sr,sr,Serbian
-28,Turkish,tr,tr,tr,Turkish
-13,Slovak,sk,sk,sk,Slovak
-17,Lithuanian,lt,lt,lt,Lithuanian
-68,Chinese (Traditional),zh-tw,zh-TW,zh-TW,Chinese (Traditional)
-29,Finnish,fi,fi,fi,Finnish
-37,Tajik,tg,tg,tg,Tajik
-52,Portuguese (Brazil),pt-br,pt-BR,pt-BR,Portuguese (Brazilian)
-57,Icelandic,is,is,is,Icelandic
-73,Lao,lo,lo,lo,Lao
-1,Russian,ru,ru,ru,Russian
-21,Hungarian,hu,hu,hu,Hungarian
-22,Dutch,nl,nl,nl,Dutch
-44,Persian (Farsi),fa,fa,fa,Persian
-47,Vietnamese,vi,vi,vi,Vietnamese
-78,Tagalog,tl,fil,fil,Filipino
-93,Hmong Daw,hmn,hmn,hmn,Hmong
-8,Croatian,hr,hr,hr,Croatian
-24,Swedish,sv,sv,sv,Swedish
-27,Uzbek,uz,uz,uz,Uzbek
-51,Hindi,hi,hi,hi,Hindi
-55,Chuvash,cv,cv,cv,Chuvash
-59,Albanian,sq,sq,sq,Albanian
-64,English - Great Britain,en-gb,en-GB,en-GB,English (British)
-72,Kurdish,ku,ku,ku,Kurdish
-19,Estonian,et,et,et,Estonian
-25,Macedonian,mk,mk,mk,Macedonian
-34,Portuguese,pt,pt,pt,Portuguese
-89,Bashkir,ba,ba,ba,Bashkir
-76,Swahili,sw,sw,sw,Swahili
-81,Chechen,ce,ce,ce,Chechen
-83,Yiddish,yi,yi,yi,Yiddish
-65,English - Canada,en-ca,en-CA,en-CA,English (Canadian)
-70,Afrikaans,af,af,af,Afrikaans
 88,Amharic,am,am,am,Amharic
-92,Maltese,mt,mt,mt,Maltese
-10,Czech,cs,cs,cs,Czech
-40,Moldavian,ro,ro,ro,Romanian
-48,Georgian,ka,ka,ka,Georgian
-69,Urdu,ur,ur,ur,Urdu
-2,English,en,en,en,English
-12,Bulgarian,bg,bg,bg,Bulgarian
-54,Tatar,tt,tt,tt,Tatar
+4,French,fr,fr,fr,French
+8,Croatian,hr,hr,hr,Croatian
 46,Latin,la,la,la,Latin
-16,Spanish,es,es,es,Spanish
-31,Arabic,ar,ar,ar,Arabic
+54,Tatar,tt,tt,tt,Tatar
+68,Chinese (Traditional),zh-tw,zh-TW,zh-TW,Chinese (Traditional)
+21,Hungarian,hu,hu,hu,Hungarian
+27,Uzbek,uz,uz,uz,Uzbek
 38,Turkmen,tk,tk,tk,Turkmen
+44,Persian (Farsi),fa,fa,fa,Persian
+91,Haitian Creole,ht,ht,ht,Haitian
+7,Japanese,ja,ja,ja,Japanese
+14,Italian,it,it,it,Italian
+43,Korean,ko,ko,ko,Korean
+74,Nepali,ne,ne,ne,Nepali
+40,Moldavian,ro,ro,ro,Romanian
+47,Vietnamese,vi,vi,vi,Vietnamese
+55,Chuvash,cv,cv,cv,Chuvash
+66,English - Australia,en-au,en-AU,en-AU,English (Australian)
+2,English,en,en,en,English
+6,Chinese (Simplified),zh-cn,zh-CN,zh-CN,Chinese (Simplified)
+26,Ukrainian,uk,uk,uk,Ukrainian
+29,Finnish,fi,fi,fi,Finnish
+72,Kurdish,ku,ku,ku,Kurdish
+92,Maltese,mt,mt,mt,Maltese
+16,Spanish,es,es,es,Spanish
+81,Chechen,ce,ce,ce,Chechen
+23,Romanian,ro,ro,ro,Romanian
+32,Greek,el,el,el,Greek
+42,Danish,da,da,da,Danish
+90,Welsh,cy,cy,cy,Welsh
+57,Icelandic,is,is,is,Icelandic
+65,English - Canada,en-ca,en-CA,en-CA,English (Canadian)
+13,Slovak,sk,sk,sk,Slovak
+15,Azerbaijani,az,az,az,Azerbaijani
+18,Latvian,lv,lv,lv,Latvian
+52,Portuguese (Brazil),pt-br,pt-BR,pt-BR,Portuguese (Brazilian)
+50,Thai,th,th,th,Thai
+76,Swahili,sw,sw,sw,Swahili
+83,Yiddish,yi,yi,yi,Yiddish
+84,Cambodian,km,km,km,Khmer
+3,German,de,de,de,German
+11,Serbian,sr,sr,sr,Serbian
+24,Swedish,sv,sv,sv,Swedish
+37,Tajik,tg,tg,tg,Tajik
+93,Hmong Daw,hmn,hmn,hmn,Hmong
+71,Bengali,bn,bn,bn,Bengali
+35,Catalan,ca,ca,ca,Catalan
+51,Hindi,hi,hi,hi,Hindi
+64,English - Great Britain,en-gb,en-GB,en-GB,English (British)
+69,Urdu,ur,ur,ur,Urdu
+45,Norwegian,no,no,no,Norwegian Bokmål
+10,Czech,cs,cs,cs,Czech
+19,Estonian,et,et,et,Estonian
+28,Turkish,tr,tr,tr,Turkish
+34,Portuguese,pt,pt,pt,Portuguese
+41,Slovenian,sl,sl,sl,Slovenian
+58,Malay,ms-my,ms-MY,ms-MY,Malay ()
+73,Lao,lo,lo,lo,Lao
+80,Medieval Japanese,ja-md,ja-MD,,
+1,Russian,ru,ru,ru,Russian
+5,Polish,pl,pl,pl,Polish
+25,Macedonian,mk,mk,mk,Macedonian
+39,Kyrgyz,ky,ky,ky,Kyrgyz
+67,French - Canada,fr-ca,fr-CA,fr-CA,French (Canadian)
+70,Afrikaans,af,af,af,Afrikaans
+89,Bashkir,ba,ba,ba,Bashkir
+30,Hebrew,he,he,he,Hebrew
+33,Belarusian,be,be,be,Belarusian
+60,Irish,ga,ga,ga,Irish
+61,Bosnian,bs,bs,bs,Bosnian
+49,Kazakh,kk,kk,kk,Kazakh
+77,Tamil,ta,ta,ta,Tamil
